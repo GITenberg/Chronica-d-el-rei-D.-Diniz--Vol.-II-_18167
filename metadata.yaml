@@ -1,0 +1,34 @@
+_repo: Chronica-d-el-rei-D.-Diniz--Vol.-II-_18167
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pina, Rui de
+    alias: Pina, Ruy de
+    birthdate: 1440
+    deathdate: 1521
+    gutenberg_agent_id: '6799'
+    url: http://www.gutenberg.org/2009/agents/6799
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Rui_de_Pina
+    - http://en.wikipedia.org/wiki/Rui_de_Pina
+description: ''
+gutenberg_bookshelf:
+- PT História
+- PT Biografia
+gutenberg_issued: '2006-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18167'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Dinis, King of Portugal, 1261-1325'
+- !lcsh 'Portugal -- History -- Dinis, 1279-1325'
+title: Chronica d'el rei D. Diniz (Vol. II)
+url: http://www.gutenberg.org/ebooks/18167
